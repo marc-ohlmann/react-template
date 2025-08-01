@@ -1,4 +1,4 @@
-import './HomePage.css'
+import './HomePage.css';
 
 function HomePage() {
 
@@ -6,7 +6,7 @@ function HomePage() {
     <>
       <h3>Home Page</h3>
     </>
-  )
+  );
 }
 
-export default HomePage
+export default HomePage;
